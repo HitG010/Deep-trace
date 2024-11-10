@@ -96,8 +96,6 @@ cd icpr2020dfdc/notebook
 python3 ../../app.py
 ```
 
-### Lastly set up neoX destnet on your metamask wallet and get some test tokens from [here](https://neoxwish.ngd.network/).
-
 ## Our Contact info
 
 Team Name : < FigureOut />
