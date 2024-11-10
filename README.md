@@ -50,7 +50,7 @@ As the world of deepfake generation continues to evolve, we need to stay ahead o
 
 ### Workflow
 
-![Workflow](public/deepTrace_flowchart.png)
+![Workflow](public/DeeptraceModel.jpeg)
 
 ### Project Images
 
